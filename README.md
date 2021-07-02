@@ -28,4 +28,4 @@ Run `dnn_train_and_predict.py` to train the neural network, and `drcPredictionSv
 
 ## Details and results
 
-Details of this work and comparison between this work and other works can be found in the pdf file.
+Details about this work and the comparison between this work and other works can be found in the pdf file.
